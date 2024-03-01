@@ -1,2 +1,3 @@
 2-physical-4-logical-unameresultsystem=Windows-node=CYBERSPACE-release=10-version=10.0.18362-machine=AMD64Windows-10-10.0.18362-SP0AMD64Intel64-Family-6-Model-58-Stepping-9-GenuineIntel
  4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-9T4TJM3-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9-GenuineIntel
+4-physical-8-logical­-unameresultsystem=W­indows-node=DESKTOP-­LBFHD1R-release=10-v­ersion=10.0.19045-ma­chine=AMD64Windows-1­0-10.0.19045-SP0AMD6­4Intel64-Family-6-Mo­del-60-Stepping-3-Ge­nuineIntel
